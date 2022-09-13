@@ -1,0 +1,25 @@
+/* Player names */
+"no_player_name" = "None";
+"player_plus_name" = "Player %@";
+"player_one_name" = "Red";
+"player_two_name" = "Yellow";
+
+/* Buttons messages */
+"cancel" = "Cancel";
+"confirm" = "Confirm";
+"ok" = "Ok";
+
+/* Game and match */
+"draw" = "Draw!";
+"invalid_move" = "Invalid move";
+"match_over" = "Match over";
+"player_won" = "%@ player won!";
+"restart_game" = "Restart game";
+"restart_game_confirmation_message" = "Are you sure you want to restart the current game? \nAll progress and points will be lost.";
+"restart_match" = "Restart match";
+"restart_match_confirmation_message" = "Are you sure you want to restart the current match?";
+"score" = "%@ score: %d";
+"try_again" = "Please try again";
+
+/* Tutorial */
+"tutorial_clue" = "Tap any column on \nthe board to start";
